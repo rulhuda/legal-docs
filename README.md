@@ -11,7 +11,7 @@ Berikut adalah daftar kebijakan privasi yang aktif:
 ### 1. SkinCode
 * **Tujuan:** Aplikasi tracking & scheduling skincare.
 * **Status:** Active
-* **Link:** [Privacy Policy SkinCode](https://rulhuda.github.io/legal-docs/skincode.html)
+* **Link:** [Privacy Policy SkinCode](https://rulhuda.github.io/legal-docs/skincode)
 
 ---
 
